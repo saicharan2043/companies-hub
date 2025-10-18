@@ -57,7 +57,7 @@ Companies Directory is a full-featured web application designed to help users di
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-url.com) *(Replace with actual deployment URL)*
+[View Live Demo](https://companies-hub.netlify.app) *(Replace with actual deployment URL)*
 
 ## 📸 Screenshots
 
